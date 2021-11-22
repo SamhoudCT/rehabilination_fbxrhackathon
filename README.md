@@ -10,7 +10,8 @@ A project done for the Facebook XR Hackathon 2021
   
 
 Rehabilination is a mixed reality experience that supports young hospitalized kids throughout their entire patient journey. The goal is to increase a young patient’s motivation for his or her own rehabilitation. An interactive digital character offers kids distraction, motivation, information and stress-relief before, during and after their hospitalization by using gamification and storytelling.
-  
+
+Video: https://vimeo.com/648713873/cf480480ed  
 
 This project is build for the Oculus Quest 2 with the help of Unity (2020.3.21f1) using both the Voice SDK and Passthrough capabilities from the Presence Platform within the Oculus Integration SDK (v34). Due to restrictions/issues with the XR Plugin Management and Passthrough not working on the alternative Legacy XR input SDK or OpenXR we unfortuanately were unable to make use of the Hands SDK.
 
@@ -34,7 +35,7 @@ As the AI is not completely trained to accept all responses yet we provided you 
 
 >Reco: Good morning champ! How are you feeling
 
-Possible answers: **I am doing fine**   / **I am not feeling so well**
+Possible answers: **I am doing fine** / **I am not feeling so well**
 
 >Reco: Great! Ready for a challange? / I am sorry, let me try to cheer you up, Want to play a game?
 

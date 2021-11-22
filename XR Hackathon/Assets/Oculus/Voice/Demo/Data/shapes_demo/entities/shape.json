@@ -1,0 +1,38 @@
+{
+    "name": "shape",
+    "roles": [
+        "shape"
+    ],
+    "lookups": [
+        "keywords"
+    ],
+    "keywords": [
+        {
+            "keyword": "capsule",
+            "synonyms": [
+                "capsule"
+            ]
+        },
+        {
+            "keyword": "cube",
+            "synonyms": [
+                "cube",
+                "square"
+            ]
+        },
+        {
+            "keyword": "cylinder",
+            "synonyms": [
+                "cylinder",
+                "tube"
+            ]
+        },
+        {
+            "keyword": "sphere",
+            "synonyms": [
+                "ball",
+                "sphere"
+            ]
+        }
+    ]
+}

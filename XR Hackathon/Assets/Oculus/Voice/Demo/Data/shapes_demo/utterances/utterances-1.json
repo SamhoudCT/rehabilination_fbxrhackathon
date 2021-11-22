@@ -1,0 +1,130 @@
+{
+    "utterances": [
+        {
+            "text": "I would like the sphere to be orange",
+            "entities": [
+                {
+                    "entity": "shape:shape",
+                    "start": 17,
+                    "end": 23,
+                    "body": "sphere",
+                    "entities": []
+                },
+                {
+                    "entity": "color:color",
+                    "start": 30,
+                    "end": 36,
+                    "body": "orange",
+                    "entities": []
+                }
+            ],
+            "traits": [],
+            "intent": "change_color"
+        },
+        {
+            "text": "change the cube to purple",
+            "entities": [
+                {
+                    "entity": "shape:shape",
+                    "start": 11,
+                    "end": 15,
+                    "body": "cube",
+                    "entities": []
+                },
+                {
+                    "entity": "color:color",
+                    "start": 19,
+                    "end": 25,
+                    "body": "purple",
+                    "entities": []
+                }
+            ],
+            "traits": [],
+            "intent": "change_color"
+        },
+        {
+            "text": "make the cube red",
+            "entities": [
+                {
+                    "entity": "shape:shape",
+                    "start": 9,
+                    "end": 13,
+                    "body": "cube",
+                    "entities": []
+                },
+                {
+                    "entity": "color:color",
+                    "start": 14,
+                    "end": 17,
+                    "body": "red",
+                    "entities": []
+                }
+            ],
+            "traits": [],
+            "intent": "change_color"
+        },
+        {
+            "text": "the cube should be blue",
+            "entities": [
+                {
+                    "entity": "shape:shape",
+                    "start": 4,
+                    "end": 8,
+                    "body": "cube",
+                    "entities": []
+                },
+                {
+                    "entity": "color:color",
+                    "start": 19,
+                    "end": 23,
+                    "body": "blue",
+                    "entities": []
+                }
+            ],
+            "traits": [],
+            "intent": "change_color"
+        },
+        {
+            "text": "the cube should be green",
+            "entities": [
+                {
+                    "entity": "shape:shape",
+                    "start": 4,
+                    "end": 8,
+                    "body": "cube",
+                    "entities": []
+                },
+                {
+                    "entity": "color:color",
+                    "start": 19,
+                    "end": 24,
+                    "body": "green",
+                    "entities": []
+                }
+            ],
+            "traits": [],
+            "intent": "change_color"
+        },
+        {
+            "text": "the sphere should be red",
+            "entities": [
+                {
+                    "entity": "shape:shape",
+                    "start": 4,
+                    "end": 10,
+                    "body": "sphere",
+                    "entities": []
+                },
+                {
+                    "entity": "color:color",
+                    "start": 21,
+                    "end": 24,
+                    "body": "red",
+                    "entities": []
+                }
+            ],
+            "traits": [],
+            "intent": "change_color"
+        }
+    ]
+}

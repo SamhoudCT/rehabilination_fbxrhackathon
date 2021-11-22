@@ -1,0 +1,7 @@
+{
+    "name": "change_color",
+    "entities": [
+        "color:color",
+        "shape:shape"
+    ]
+}

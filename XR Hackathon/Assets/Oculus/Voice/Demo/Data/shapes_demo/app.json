@@ -1,0 +1,7 @@
+{
+    "version": 20200513,
+    "zip-command": "zip shapes_demo.zip shapes_demo\/app.json shapes_demo\/entities\/*.json shapes_demo\/intents\/*.json shapes_demo\/traits\/*.json shapes_demo\/utterances\/*.json",
+    "name": "shapes_demo",
+    "lang": "en",
+    "timezone": "America\/Los_Angeles"
+}

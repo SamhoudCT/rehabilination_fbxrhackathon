@@ -1,0 +1,97 @@
+{
+    "name": "color",
+    "roles": [
+        "color"
+    ],
+    "lookups": [
+        "free-text",
+        "keywords"
+    ],
+    "keywords": [
+        {
+            "keyword": "black",
+            "synonyms": [
+                "black"
+            ]
+        },
+        {
+            "keyword": "blue",
+            "synonyms": [
+                "blue"
+            ]
+        },
+        {
+            "keyword": "brown",
+            "synonyms": [
+                "brown"
+            ]
+        },
+        {
+            "keyword": "gold",
+            "synonyms": [
+                "gold"
+            ]
+        },
+        {
+            "keyword": "green",
+            "synonyms": [
+                "green"
+            ]
+        },
+        {
+            "keyword": "magenta",
+            "synonyms": [
+                "magenta"
+            ]
+        },
+        {
+            "keyword": "maroon",
+            "synonyms": [
+                "maroon",
+                "red"
+            ]
+        },
+        {
+            "keyword": "orange",
+            "synonyms": [
+                "orange"
+            ]
+        },
+        {
+            "keyword": "pink",
+            "synonyms": [
+                "pink"
+            ]
+        },
+        {
+            "keyword": "purple",
+            "synonyms": [
+                "purple"
+            ]
+        },
+        {
+            "keyword": "red",
+            "synonyms": [
+                "red"
+            ]
+        },
+        {
+            "keyword": "violet",
+            "synonyms": [
+                "violet"
+            ]
+        },
+        {
+            "keyword": "white",
+            "synonyms": [
+                "white"
+            ]
+        },
+        {
+            "keyword": "yellow",
+            "synonyms": [
+                "yellow"
+            ]
+        }
+    ]
+}

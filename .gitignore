@@ -68,7 +68,6 @@ sysinfo.txt
 /[Bb]uild/
 
 # Builds  (Unity)
-*.apk 
 *.unitypackage 
 
 Library
